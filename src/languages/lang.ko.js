@@ -1,0 +1,15 @@
+export default {
+  MON: '월요일',
+  TUE: '화요일',
+  WED: '수요일',
+  THU: '목요일',
+  FRI: '금요일',
+  SAT: '토요일',
+  SUN: '일요일',
+  scheduled: '연재 중',
+  completed: '완결',
+  msg_freeEpiseodeSize: '%1회 무료',
+  msg_periods: '매주 %1 연재',
+  msg_freeSize: '무료회차 %1개',
+  romanseGenreRank: '로맨스 장르 랭킹',
+};
